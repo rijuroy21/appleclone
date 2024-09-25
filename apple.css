@@ -27,7 +27,7 @@
     padding-bottom: 5px;
     display: flex;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
     
 }
 
@@ -68,7 +68,7 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
     
 }
 
@@ -98,7 +98,7 @@
     padding: 5px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: end;
 }
 #btn7{
     background-color: blue;
@@ -180,7 +180,7 @@
     padding: 5px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: end;
 }
 #btn15{
     background-color: blue;
@@ -198,7 +198,7 @@
     padding: 5px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: end;
 }
 #btn17{
     background-color: blue;
